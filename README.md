@@ -15,7 +15,4 @@ strategies.
 Project Structure
 - `src/`: Source code 
 - `data/`: Datasets used in the project.
-- `docs/`: Documentation and related materials.
 - `tests/`: Unit tests.
-- `configs/`: Configuration files.
-- `examples/`: Example scripts and notebooks.
